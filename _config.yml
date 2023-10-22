@@ -106,11 +106,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Patcasso"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "안녕하세요, 개발자 팻카소입니다."
+  location         : "Seoul, KR"
+  email            : "patcasso21@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
