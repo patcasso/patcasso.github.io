@@ -20,6 +20,8 @@ docs:
         url: /categories/#daily
       - title: "Boostcamp"
         url: /categories/#boostcamp
+      - title: "Thoughts"
+        url: /categories/#thoughts
       # - title: "Installation"
       #   url: /docs/installation/
       # - title: "Upgrading"
