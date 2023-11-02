@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Boostcamp 온보딩 주간"
-categories: boostcamp
+categories: boostcamp-record
 sidebar:
   nav: "docs"
 ---

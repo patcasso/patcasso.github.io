@@ -14,15 +14,15 @@ main:
   #   url: /sitemap/
 
 docs:
-  - title: Category
+  - title: 🚀 Boostcamp
     children:
-      - title: "Daily"
-        url: /categories/#daily
-      - title: "Boostcamp"
-        url: /categories/#boostcamp
+      - title: "학습일지"
+        url: /categories/#boostcamp-note
+      - title: "기록"
+        url: /categories/#boostcamp-record
+      - title: "자료"
+        url: /categories/#boostcamp-material
+  - title: 📖 Daily
+    children:
       - title: "Thoughts"
         url: /categories/#thoughts
-      # - title: "Installation"
-      #   url: /docs/installation/
-      # - title: "Upgrading"
-      #   url: /docs/upgrading/
