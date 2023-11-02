@@ -18,11 +18,18 @@ docs:
     children:
       - title: "학습일지"
         url: /categories/#boostcamp-note
+        category: "boostcamp-note"
+
       - title: "기록"
         url: /categories/#boostcamp-record
+        category: "boostcamp-record"
+
       - title: "자료"
         url: /categories/#boostcamp-material
+        category: "boostcamp-material"
+        
   - title: 📖 Daily
     children:
       - title: "Thoughts"
         url: /categories/#thoughts
+        category: "thoughts"
