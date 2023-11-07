@@ -20,6 +20,10 @@ docs:
         url: /categories/#boostcamp-note
         category: "boostcamp-note"
 
+      - title: "수학 스터디"
+        url: /categories/#boostcamp-math
+        category: "boostcamp-math"
+
       - title: "기록"
         url: /categories/#boostcamp-record
         category: "boostcamp-record"
