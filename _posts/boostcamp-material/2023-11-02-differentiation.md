@@ -30,5 +30,9 @@ sidebar:
       <td>f(x) = x<sup>n</sup></td>
       <td>f'(x) = nx<sup>n-1</sup></td>
     </tr>
+    <tr>
+      <td>f(x) = ln(x)</td>
+      <td>f'(x) = 1 / x</td>
+    </tr>
   </tbody>
 </table>
