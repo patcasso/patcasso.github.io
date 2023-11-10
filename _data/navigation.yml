@@ -16,13 +16,6 @@ main:
 docs:
   - title: 🚀 Boostcamp
     children:
-      - title: "학습일지"
-        url: /categories/#boostcamp-note
-        category: "boostcamp-note"
-
-      - title: "수학 스터디"
-        url: /categories/#boostcamp-math
-        category: "boostcamp-math"
 
       - title: "기록"
         url: /categories/#boostcamp-record
@@ -31,7 +24,15 @@ docs:
       - title: "자료"
         url: /categories/#boostcamp-material
         category: "boostcamp-material"
+
+      - title: "수학 스터디"
+        url: /categories/#boostcamp-math
+        category: "boostcamp-math"
         
+      - title: "[학습정리] 1주차"
+        url: /categories/#boostcamp-note-week1
+        category: "boostcamp-note-week1"
+
   - title: 📖 Daily
     children:
       - title: "Thoughts"
