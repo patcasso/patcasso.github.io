@@ -29,9 +29,14 @@ docs:
         url: /categories/#boostcamp-math
         category: "boostcamp-math"
         
+      - title: "[학습정리] 온보딩"
+        url: /categories/#boostcamp-note-onboarding
+        category: "boostcamp-note-onboarding"
+        
       - title: "[학습정리] 1주차"
         url: /categories/#boostcamp-note-week1
         category: "boostcamp-note-week1"
+
 
   - title: 📖 Daily
     children:
