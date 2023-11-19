@@ -41,6 +41,11 @@ docs:
         url: /categories/#boostcamp-note-week2
         category: "boostcamp-note-week2"
 
+      - title: "[학습정리] 3주차"
+        url: /categories/#boostcamp-note-week3
+        category: "boostcamp-note-week3"
+
+
 
   - title: 📖 Daily
     children:
