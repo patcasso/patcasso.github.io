@@ -44,9 +44,9 @@ sidebar:
 
 
 <h2>Peer Session</h2>
-: <br><b>1) 주제 1</b><br><br>
+- 1) 주제 1<br><br>
 : : 
 : : 
-: <br><b>2) 주제 2</b><br><br>
+- 2) 주제 2<br><br>
 : : 
 : : 
