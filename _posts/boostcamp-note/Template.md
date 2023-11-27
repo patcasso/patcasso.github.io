@@ -1,45 +1,51 @@
 ---
 layout: single
-title:  "Day 11 학습정리"
-categories: boostcamp-note-week3
+title:  "Day 17 학습정리"
+categories: boostcamp-note-week4
 sidebar:
   nav: "docs"
 ---
 
-# 23/11/20 (월) 학습 내용
+# 23/11/28 (화) 학습 내용
 
-<h2>강좌 분류</h2>
+<h1>강좌 분류</h1>
 
-- (1강)<br><br>
-: <br><b>강의 키워드</b><br><br>
+<h2>(1강)</h2>
+- 강의 키워드<br><br>
 : - 
 : - 
 : - 
-: <br><b>소개</b><br><br>
-: :
-: : 
-: <br><b>소제목1</b><br><br>
-: :
-: : 
-: <br><b>소제목2</b><br><br>
-: :
-: :
 
-- (2강)<br><br>
-: <br><b>강의 키워드</b><br><br>
-: - 
-: - 
-: - 
-: <br><b>소개</b><br><br>
-: :
-: : 
-: <br><b>소제목1</b><br><br>
-: :
-: : 
-: <br><b>소제목2</b><br><br>
+- 소개<br><br>
 : :
 : : 
 
+- 소제목1<br><br>
+: :
+: : 
+
+- 소제목2<br><br>
+: :
+: :
+
+
+<h2>(2강)</h2>
+- 강의 키워드<br><br>
+: - 
+: - 
+: - 
+
+- 소개<br><br>
+: :
+: : 
+
+- 소제목1<br><br>
+: :
+: : 
+
+- 소제목2<br><br>
+: :
+: :
 
 
 
