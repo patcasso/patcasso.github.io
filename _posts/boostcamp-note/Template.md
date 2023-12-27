@@ -1,16 +1,16 @@
 ---
 layout: single
-title:  "Day 31 학습정리"
-categories: boostcamp-note-week6
+title:  "Day 37 학습정리"
+categories: boostcamp-note-week8
 sidebar:
   nav: "docs"
 ---
 
-23/12/18 (월) 학습 내용
+23/12/27 (수) 학습 내용
 
-<h1>NLP 기초 프로젝트</h1>
+<h1>AI 서비스 개발 기초</h1>
 
-<h2>(7-2강)</h2>
+<h2>(4강)</h2>
 - 강의 키워드<br><br>
 : - 
 : - 
