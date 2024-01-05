@@ -1,16 +1,16 @@
 ---
 layout: single
-title:  "Day 37 학습정리"
-categories: boostcamp-note-week8
+title:  "Day 43 학습정리"
+categories: boostcamp-note-week9
 sidebar:
   nav: "docs"
 ---
 
-23/12/27 (수) 학습 내용
+24/01/03 (수) 학습 내용
 
-<h1>AI 서비스 개발 기초</h1>
+<h1>KLUE</h1>
 
-<h2>(4강)</h2>
+<h2>(0강) </h2>
 - 강의 키워드<br><br>
 : - 
 : - 
