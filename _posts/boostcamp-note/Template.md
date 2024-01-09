@@ -1,12 +1,12 @@
 ---
 layout: single
-title:  "Day 43 학습정리"
-categories: boostcamp-note-week9
+title:  "Day 45 학습정리"
+categories: boostcamp-note-week10
 sidebar:
   nav: "docs"
 ---
 
-24/01/03 (수) 학습 내용
+24/01/10 (수) 학습 내용
 
 <h1>KLUE</h1>
 
