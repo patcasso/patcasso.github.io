@@ -1,12 +1,12 @@
 ---
 layout: single
-title:  "Day 51 학습정리"
+title:  "Day 59 학습정리"
 categories: boostcamp-note-week12
 sidebar:
   nav: "docs"
 ---
 
-24/01/22 (월) 학습 내용
+24/01/25 (목) 학습 내용
 
 <h1>Data Centric</h1>
 
