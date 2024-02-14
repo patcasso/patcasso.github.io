@@ -1,12 +1,12 @@
 ---
 layout: single
-title:  "Day 69 학습정리"
-categories: boostcamp-note-week14
+title:  "Day 73 학습정리"
+categories: boostcamp-note-week15
 sidebar:
   nav: "docs"
 ---
 
-24/01/25 (목) 학습 내용
+24/02/14 (수) 학습 내용
 
 <h1>MRC</h1>
 
