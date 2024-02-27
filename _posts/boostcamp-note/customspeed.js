@@ -1,6 +1,6 @@
 let video = document.querySelector('video');
 let newDiv = document.createElement("div");
-let customSpeed = 1.25 // 여길 바꾸면 custom speed 조절 가능
+let customSpeed = 1.15 // 여길 바꾸면 custom speed 조절 가능
 
 newDiv.id = "dynamicDiv";
 newDiv.style.padding = "6px";
